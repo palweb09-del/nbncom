@@ -1,5 +1,5 @@
 /* Nabban Bhai Zari Wala storefront. Add the deployed Apps Script URL below. */
-const API = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const API = "https://script.google.com/macros/s/AKfycbyCqX10MgOpWD5WOTdnVJAH7CZapJGRfB6gupF0ATe5wG_YtXEy_9BtP4Rz-ctwVFU3/exec";
 const DEMO = {
   settings: {
     shop_name: "Nabban Bhai Zari Wala",
